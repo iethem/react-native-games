@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "app/*"
+            ],
+            "components/*": [
+                "componenst/*"
+            ],
+            "containers/*": [
+                "containers/*"
+            ],
+            "images/*": [
+                "images/*"
+            ],
+            "theme/*": [
+                "theme/*"
+            ],
+            "utils/*": [
+                "utils/*"
+            ],
+            "underscore": [
+                "lodash"
+            ]
+        }
+    }
+}
